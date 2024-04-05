@@ -7,3 +7,4 @@ class Gasto(BaseModel):
     descripcion:str
     caracteristica:str | None
     fecha:str
+    cantidad:int

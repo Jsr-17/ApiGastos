@@ -1,0 +1,138 @@
+[
+  {
+    "id": "660d9dc862e7cfb2fd0e1954",
+    "nombre": "Compras",
+    "descripcion": "Ropa",
+    "caracteristica": null,
+    "fecha": "2024-04-03",
+    "cantidad": 25
+  },
+  {
+    "id": "660d9dce62e7cfb2fd0e1955",
+    "nombre": "Transporte",
+    "descripcion": "Viaje en metro",
+    "caracteristica": null,
+    "fecha": "2024-04-02",
+    "cantidad": 2
+  },
+  {
+    "id": "660d9dd862e7cfb2fd0e1956",
+    "nombre": "Comida",
+    "descripcion": "Almuerzo en restaurante",
+    "caracteristica": null,
+    "fecha": "2024-04-01",
+    "cantidad": 15
+  },
+  {
+    "id": "660d9e6762e7cfb2fd0e1957",
+    "nombre": "Comida",
+    "descripcion": "Almuerzo en restaurante",
+    "caracteristica": null,
+    "fecha": "2024-04-01",
+    "cantidad": 15
+  },
+  {
+    "id": "660d9e6c62e7cfb2fd0e1958",
+    "nombre": "Transporte",
+    "descripcion": "Taxi al aeropuerto",
+    "caracteristica": "Aeropuerto",
+    "fecha": "2024-04-02",
+    "cantidad": 25
+  },
+  {
+    "id": "660d9e7062e7cfb2fd0e1959",
+    "nombre": "Comida",
+    "descripcion": "Cena en restaurante de sushi",
+    "caracteristica": null,
+    "fecha": "2024-04-03",
+    "cantidad": 45
+  },
+  {
+    "id": "660d9e7762e7cfb2fd0e195a",
+    "nombre": "Compras",
+    "descripcion": "Ropa",
+    "caracteristica": "Ropa de marca",
+    "fecha": "2024-04-04",
+    "cantidad": 100
+  },
+  {
+    "id": "660d9e7e62e7cfb2fd0e195b",
+    "nombre": "Entretenimiento",
+    "descripcion": "Entrada al parque de atracciones",
+    "caracteristica": "Parque de atracciones",
+    "fecha": "2024-04-05",
+    "cantidad": 60
+  },
+  {
+    "id": "660d9e8262e7cfb2fd0e195c",
+    "nombre": "Transporte",
+    "descripcion": "Billete de tren",
+    "caracteristica": "Ave",
+    "fecha": "2024-04-06",
+    "cantidad": 30
+  },
+  {
+    "id": "660d9e8862e7cfb2fd0e195d",
+    "nombre": "Comida",
+    "descripcion": "Desayuno en cafetería",
+    "caracteristica": "Cafetería local",
+    "fecha": "2024-04-07",
+    "cantidad": 10
+  },
+  {
+    "id": "660d9e9062e7cfb2fd0e195e",
+    "nombre": "Entretenimiento",
+    "descripcion": "Boletos para concierto",
+    "caracteristica": "Rock",
+    "fecha": "2024-04-08",
+    "cantidad": 70
+  },
+  {
+    "id": "660d9e9462e7cfb2fd0e195f",
+    "nombre": "Compras",
+    "descripcion": "Electrodomésticos",
+    "caracteristica": "Electrodomésticos",
+    "fecha": "2024-04-09",
+    "cantidad": 150
+  },
+  {
+    "id": "660d9e9a62e7cfb2fd0e1960",
+    "nombre": "Transporte",
+    "descripcion": "Gasolina",
+    "caracteristica": "Estación de servicio Shell",
+    "fecha": "2024-04-10",
+    "cantidad": 40
+  },
+  {
+    "id": "660d9ea062e7cfb2fd0e1961",
+    "nombre": "Comida",
+    "descripcion": "Cena en restaurante mexicano",
+    "caracteristica": null,
+    "fecha": "2024-04-11",
+    "cantidad": 35
+  },
+  {
+    "id": "660d9ea562e7cfb2fd0e1962",
+    "nombre": "Entretenimiento",
+    "descripcion": "Boletos para cine",
+    "caracteristica": "Cineplex",
+    "fecha": "2024-04-12",
+    "cantidad": 20
+  },
+  {
+    "id": "660d9eaa62e7cfb2fd0e1963",
+    "nombre": "Compras",
+    "descripcion": "Compra de libros",
+    "caracteristica": "Librería local",
+    "fecha": "2024-04-13",
+    "cantidad": 55
+  },
+  {
+    "id": "660d9eaf62e7cfb2fd0e1964",
+    "nombre": "Transporte",
+    "descripcion": "Billete de avión",
+    "caracteristica": "Vuelo doméstico",
+    "fecha": "2024-04-14",
+    "cantidad": 120
+  }
+]
